@@ -11,4 +11,4 @@ If you want to learn more about the Starknet network itself, its architecture an
 
 #### Scarb
 
-You can set up a Starknet development environment using Scarb as stated in the [Hello, Scarb! - Starknet Support](ch01-03-hello-scarb.md#starknet-support) section. Each example in this chapter can be used with Scarb.
+You can set up a Starknet development environment using Scarb as stated in the [Hello, Scarb! - Starknet Support](https://book.cairo-lang.org/ch01-02-hello-world.html) section. Each example in this chapter can be used with Scarb.
